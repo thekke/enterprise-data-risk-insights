@@ -1,0 +1,181 @@
+control_id,risk_id,control_name,control_type,frequency,control_owner,control_status,key_control
+CTRL0001,RISK0098,Privileged access monitoring,Preventive,Quarterly,K. Smith,Retired,N
+CTRL0002,RISK0088,Security logging review,Corrective,Annually,D. Brown,Active,Y
+CTRL0003,RISK0057,Privileged access monitoring,Detective,Quarterly,J. Nguyen,Active,Y
+CTRL0004,RISK0046,DR plan review,Preventive,Monthly,K. Smith,Design gap,Y
+CTRL0005,RISK0008,Incident post-review,Detective,Daily,M. Chen,Retired,N
+CTRL0006,RISK0060,Security logging review,Corrective,Daily,K. Smith,Retired,Y
+CTRL0007,RISK0042,Security logging review,Detective,Annually,R. Patel,Active,N
+CTRL0008,RISK0014,Incident post-review,Corrective,Daily,P. Kumar,Active,Y
+CTRL0009,RISK0032,Data reconciliation control,Detective,Annually,P. Kumar,Retired,Y
+CTRL0010,RISK0047,Incident post-review,Detective,Quarterly,L. Thompson,Active,Y
+CTRL0011,RISK0102,Incident post-review,Preventive,Monthly,M. Chen,Retired,N
+CTRL0012,RISK0037,Patch compliance check,Corrective,Annually,R. Patel,Active,Y
+CTRL0013,RISK0075,Backup restore test,Detective,Monthly,L. Thompson,Active,Y
+CTRL0014,RISK0040,DR plan review,Detective,Monthly,R. Patel,Retired,Y
+CTRL0015,RISK0083,Supplier assurance review,Corrective,Monthly,A. Singh,Active,N
+CTRL0016,RISK0024,Change approval gate,Detective,Quarterly,S. Williams,Active,Y
+CTRL0017,RISK0020,Privileged access monitoring,Detective,Daily,P. Kumar,Retired,Y
+CTRL0018,RISK0085,Incident post-review,Corrective,Weekly,N. Wilson,Design gap,Y
+CTRL0019,RISK0021,Backup restore test,Corrective,Annually,R. Patel,Design gap,Y
+CTRL0020,RISK0053,Incident post-review,Corrective,Weekly,K. Smith,Retired,N
+CTRL0021,RISK0097,Data reconciliation control,Preventive,Annually,S. Williams,Active,N
+CTRL0022,RISK0116,Change approval gate,Detective,Annually,K. Smith,Design gap,N
+CTRL0023,RISK0100,Supplier assurance review,Corrective,Annually,L. Thompson,Active,Y
+CTRL0024,RISK0103,Security logging review,Preventive,Monthly,A. Singh,Design gap,N
+CTRL0025,RISK0071,Privileged access monitoring,Corrective,Annually,M. Chen,Active,Y
+CTRL0026,RISK0098,Backup restore test,Detective,Quarterly,P. Kumar,Active,N
+CTRL0027,RISK0012,Change approval gate,Detective,Monthly,A. Singh,Design gap,Y
+CTRL0028,RISK0051,DR plan review,Detective,Weekly,L. Thompson,Active,N
+CTRL0029,RISK0029,Access recertification,Detective,Daily,D. Brown,Active,Y
+CTRL0030,RISK0005,Patch compliance check,Detective,Weekly,K. Smith,Design gap,Y
+CTRL0031,RISK0116,Privileged access monitoring,Preventive,Monthly,S. Williams,Active,N
+CTRL0032,RISK0015,Patch compliance check,Preventive,Monthly,M. Chen,Active,Y
+CTRL0033,RISK0054,Security logging review,Detective,Daily,M. Chen,Design gap,Y
+CTRL0034,RISK0081,DR plan review,Corrective,Weekly,R. Patel,Active,N
+CTRL0035,RISK0001,Security logging review,Detective,Weekly,N. Wilson,Design gap,Y
+CTRL0036,RISK0086,Privileged access monitoring,Corrective,Monthly,M. Chen,Retired,Y
+CTRL0037,RISK0050,Data reconciliation control,Preventive,Quarterly,D. Brown,Active,Y
+CTRL0038,RISK0046,Privileged access monitoring,Detective,Weekly,M. Chen,Retired,N
+CTRL0039,RISK0018,Access recertification,Detective,Annually,D. Brown,Active,N
+CTRL0040,RISK0090,Data reconciliation control,Corrective,Weekly,R. Patel,Active,N
+CTRL0041,RISK0005,Patch compliance check,Preventive,Daily,S. Williams,Active,N
+CTRL0042,RISK0120,Patch compliance check,Corrective,Quarterly,P. Kumar,Design gap,N
+CTRL0043,RISK0005,Change approval gate,Detective,Monthly,A. Singh,Active,N
+CTRL0044,RISK0016,Incident post-review,Detective,Quarterly,K. Smith,Design gap,N
+CTRL0045,RISK0024,Data reconciliation control,Corrective,Quarterly,D. Brown,Retired,N
+CTRL0046,RISK0103,Privileged access monitoring,Corrective,Quarterly,M. Chen,Design gap,Y
+CTRL0047,RISK0070,Patch compliance check,Detective,Daily,M. Chen,Active,N
+CTRL0048,RISK0040,Data reconciliation control,Corrective,Quarterly,R. Patel,Design gap,N
+CTRL0049,RISK0058,Access recertification,Corrective,Monthly,N. Wilson,Design gap,N
+CTRL0050,RISK0082,Access recertification,Preventive,Quarterly,D. Brown,Retired,Y
+CTRL0051,RISK0004,Backup restore test,Corrective,Quarterly,A. Singh,Active,Y
+CTRL0052,RISK0031,Incident post-review,Detective,Quarterly,N. Wilson,Active,Y
+CTRL0053,RISK0087,Data reconciliation control,Detective,Monthly,K. Smith,Active,Y
+CTRL0054,RISK0068,Incident post-review,Detective,Monthly,J. Nguyen,Active,Y
+CTRL0055,RISK0004,Backup restore test,Detective,Annually,L. Thompson,Retired,Y
+CTRL0056,RISK0034,Patch compliance check,Corrective,Quarterly,S. Williams,Retired,N
+CTRL0057,RISK0089,Data reconciliation control,Preventive,Daily,R. Patel,Active,N
+CTRL0058,RISK0023,Data reconciliation control,Preventive,Monthly,D. Brown,Active,N
+CTRL0059,RISK0115,Patch compliance check,Preventive,Weekly,D. Brown,Retired,Y
+CTRL0060,RISK0016,Change approval gate,Preventive,Weekly,K. Smith,Active,N
+CTRL0061,RISK0071,Security logging review,Detective,Quarterly,P. Kumar,Active,Y
+CTRL0062,RISK0009,Patch compliance check,Detective,Quarterly,P. Kumar,Design gap,N
+CTRL0063,RISK0106,Security logging review,Preventive,Weekly,D. Brown,Active,N
+CTRL0064,RISK0060,DR plan review,Detective,Weekly,P. Kumar,Retired,Y
+CTRL0065,RISK0099,Backup restore test,Detective,Annually,A. Singh,Active,Y
+CTRL0066,RISK0039,Backup restore test,Preventive,Monthly,S. Williams,Active,N
+CTRL0067,RISK0109,Privileged access monitoring,Detective,Weekly,P. Kumar,Active,Y
+CTRL0068,RISK0081,Patch compliance check,Corrective,Annually,M. Chen,Retired,Y
+CTRL0069,RISK0076,Security logging review,Preventive,Weekly,N. Wilson,Retired,N
+CTRL0070,RISK0108,Security logging review,Preventive,Daily,M. Chen,Active,N
+CTRL0071,RISK0084,Change approval gate,Corrective,Quarterly,N. Wilson,Active,N
+CTRL0072,RISK0114,DR plan review,Detective,Monthly,K. Smith,Active,N
+CTRL0073,RISK0039,Data reconciliation control,Preventive,Daily,R. Patel,Design gap,N
+CTRL0074,RISK0062,Data reconciliation control,Preventive,Monthly,N. Wilson,Active,N
+CTRL0075,RISK0111,Incident post-review,Corrective,Monthly,L. Thompson,Active,N
+CTRL0076,RISK0066,DR plan review,Preventive,Monthly,S. Williams,Design gap,Y
+CTRL0077,RISK0035,Data reconciliation control,Preventive,Weekly,M. Chen,Active,N
+CTRL0078,RISK0050,Security logging review,Detective,Weekly,R. Patel,Active,N
+CTRL0079,RISK0025,Backup restore test,Detective,Annually,K. Smith,Design gap,N
+CTRL0080,RISK0064,Access recertification,Preventive,Quarterly,P. Kumar,Design gap,Y
+CTRL0081,RISK0028,Security logging review,Detective,Daily,A. Singh,Active,N
+CTRL0082,RISK0077,Data reconciliation control,Detective,Annually,A. Singh,Active,N
+CTRL0083,RISK0018,Patch compliance check,Corrective,Monthly,L. Thompson,Active,Y
+CTRL0084,RISK0052,Access recertification,Corrective,Annually,S. Williams,Active,N
+CTRL0085,RISK0010,Supplier assurance review,Corrective,Quarterly,P. Kumar,Active,Y
+CTRL0086,RISK0017,Privileged access monitoring,Detective,Monthly,D. Brown,Retired,N
+CTRL0087,RISK0097,Backup restore test,Preventive,Annually,P. Kumar,Design gap,Y
+CTRL0088,RISK0006,Access recertification,Preventive,Monthly,K. Smith,Retired,N
+CTRL0089,RISK0020,Security logging review,Corrective,Weekly,D. Brown,Retired,N
+CTRL0090,RISK0021,Supplier assurance review,Corrective,Monthly,N. Wilson,Active,N
+CTRL0091,RISK0091,Security logging review,Detective,Quarterly,A. Singh,Active,N
+CTRL0092,RISK0087,Privileged access monitoring,Detective,Annually,J. Nguyen,Active,N
+CTRL0093,RISK0034,Security logging review,Corrective,Weekly,A. Singh,Retired,N
+CTRL0094,RISK0022,DR plan review,Corrective,Annually,L. Thompson,Active,Y
+CTRL0095,RISK0005,Security logging review,Corrective,Daily,S. Williams,Active,N
+CTRL0096,RISK0041,Supplier assurance review,Preventive,Quarterly,S. Williams,Design gap,N
+CTRL0097,RISK0112,Access recertification,Corrective,Weekly,P. Kumar,Active,N
+CTRL0098,RISK0085,Data reconciliation control,Corrective,Quarterly,D. Brown,Active,N
+CTRL0099,RISK0117,DR plan review,Detective,Annually,D. Brown,Active,N
+CTRL0100,RISK0025,Change approval gate,Detective,Annually,J. Nguyen,Active,N
+CTRL0101,RISK0099,Patch compliance check,Corrective,Weekly,K. Smith,Active,N
+CTRL0102,RISK0045,DR plan review,Corrective,Monthly,J. Nguyen,Active,N
+CTRL0103,RISK0115,Supplier assurance review,Detective,Weekly,J. Nguyen,Active,N
+CTRL0104,RISK0092,Privileged access monitoring,Detective,Quarterly,J. Nguyen,Design gap,Y
+CTRL0105,RISK0026,DR plan review,Detective,Annually,J. Nguyen,Active,Y
+CTRL0106,RISK0079,Security logging review,Preventive,Weekly,A. Singh,Retired,Y
+CTRL0107,RISK0082,Change approval gate,Preventive,Daily,L. Thompson,Active,N
+CTRL0108,RISK0013,Backup restore test,Preventive,Annually,R. Patel,Design gap,N
+CTRL0109,RISK0062,Change approval gate,Detective,Monthly,J. Nguyen,Active,Y
+CTRL0110,RISK0084,Security logging review,Preventive,Annually,A. Singh,Active,N
+CTRL0111,RISK0113,Backup restore test,Preventive,Quarterly,K. Smith,Active,N
+CTRL0112,RISK0113,Access recertification,Preventive,Monthly,N. Wilson,Retired,Y
+CTRL0113,RISK0119,Incident post-review,Detective,Quarterly,P. Kumar,Retired,N
+CTRL0114,RISK0114,Backup restore test,Corrective,Quarterly,J. Nguyen,Active,Y
+CTRL0115,RISK0043,Backup restore test,Corrective,Quarterly,J. Nguyen,Active,Y
+CTRL0116,RISK0095,Incident post-review,Detective,Annually,S. Williams,Active,N
+CTRL0117,RISK0106,Supplier assurance review,Corrective,Monthly,M. Chen,Design gap,Y
+CTRL0118,RISK0024,Backup restore test,Detective,Monthly,S. Williams,Active,N
+CTRL0119,RISK0050,Change approval gate,Detective,Monthly,D. Brown,Active,Y
+CTRL0120,RISK0034,Incident post-review,Corrective,Weekly,A. Singh,Active,N
+CTRL0121,RISK0040,Backup restore test,Detective,Annually,J. Nguyen,Active,N
+CTRL0122,RISK0048,Security logging review,Preventive,Weekly,R. Patel,Design gap,Y
+CTRL0123,RISK0059,Security logging review,Detective,Quarterly,P. Kumar,Design gap,Y
+CTRL0124,RISK0098,Change approval gate,Corrective,Annually,M. Chen,Retired,N
+CTRL0125,RISK0068,Incident post-review,Preventive,Annually,M. Chen,Active,Y
+CTRL0126,RISK0074,DR plan review,Preventive,Weekly,D. Brown,Retired,N
+CTRL0127,RISK0015,Change approval gate,Corrective,Annually,K. Smith,Active,N
+CTRL0128,RISK0104,Access recertification,Detective,Weekly,P. Kumar,Design gap,N
+CTRL0129,RISK0073,Access recertification,Corrective,Quarterly,J. Nguyen,Active,N
+CTRL0130,RISK0033,Access recertification,Corrective,Weekly,N. Wilson,Active,Y
+CTRL0131,RISK0055,Incident post-review,Corrective,Daily,P. Kumar,Active,Y
+CTRL0132,RISK0120,Data reconciliation control,Preventive,Monthly,L. Thompson,Active,Y
+CTRL0133,RISK0099,Supplier assurance review,Detective,Quarterly,K. Smith,Design gap,N
+CTRL0134,RISK0011,DR plan review,Preventive,Monthly,M. Chen,Active,N
+CTRL0135,RISK0068,Backup restore test,Corrective,Weekly,A. Singh,Active,N
+CTRL0136,RISK0060,DR plan review,Detective,Annually,L. Thompson,Active,Y
+CTRL0137,RISK0059,Incident post-review,Preventive,Monthly,S. Williams,Active,Y
+CTRL0138,RISK0104,Supplier assurance review,Corrective,Daily,S. Williams,Active,Y
+CTRL0139,RISK0013,Security logging review,Preventive,Quarterly,N. Wilson,Active,Y
+CTRL0140,RISK0095,Access recertification,Detective,Quarterly,S. Williams,Retired,Y
+CTRL0141,RISK0097,Access recertification,Preventive,Annually,J. Nguyen,Active,N
+CTRL0142,RISK0074,Security logging review,Corrective,Monthly,S. Williams,Active,Y
+CTRL0143,RISK0085,DR plan review,Preventive,Quarterly,J. Nguyen,Active,Y
+CTRL0144,RISK0072,Security logging review,Corrective,Weekly,L. Thompson,Retired,N
+CTRL0145,RISK0007,Incident post-review,Corrective,Quarterly,P. Kumar,Active,N
+CTRL0146,RISK0053,Backup restore test,Detective,Quarterly,R. Patel,Retired,N
+CTRL0147,RISK0031,Change approval gate,Detective,Weekly,K. Smith,Active,N
+CTRL0148,RISK0054,DR plan review,Corrective,Weekly,L. Thompson,Active,N
+CTRL0149,RISK0027,Incident post-review,Corrective,Daily,K. Smith,Active,Y
+CTRL0150,RISK0069,Change approval gate,Preventive,Monthly,L. Thompson,Retired,Y
+CTRL0151,RISK0112,Privileged access monitoring,Preventive,Annually,P. Kumar,Active,N
+CTRL0152,RISK0027,Incident post-review,Detective,Daily,S. Williams,Active,Y
+CTRL0153,RISK0096,Data reconciliation control,Preventive,Annually,S. Williams,Design gap,Y
+CTRL0154,RISK0071,Incident post-review,Detective,Quarterly,K. Smith,Retired,N
+CTRL0155,RISK0040,Patch compliance check,Detective,Annually,K. Smith,Design gap,Y
+CTRL0156,RISK0103,Data reconciliation control,Detective,Weekly,D. Brown,Active,N
+CTRL0157,RISK0006,Security logging review,Preventive,Weekly,A. Singh,Active,N
+CTRL0158,RISK0038,Backup restore test,Preventive,Monthly,S. Williams,Design gap,Y
+CTRL0159,RISK0064,DR plan review,Corrective,Monthly,J. Nguyen,Design gap,N
+CTRL0160,RISK0059,Backup restore test,Corrective,Monthly,R. Patel,Active,N
+CTRL0161,RISK0024,DR plan review,Corrective,Daily,P. Kumar,Active,Y
+CTRL0162,RISK0105,Access recertification,Preventive,Quarterly,R. Patel,Active,Y
+CTRL0163,RISK0091,Backup restore test,Preventive,Weekly,P. Kumar,Design gap,N
+CTRL0164,RISK0008,Security logging review,Corrective,Annually,K. Smith,Design gap,Y
+CTRL0165,RISK0001,DR plan review,Corrective,Quarterly,A. Singh,Active,N
+CTRL0166,RISK0069,Patch compliance check,Preventive,Annually,L. Thompson,Active,Y
+CTRL0167,RISK0118,Privileged access monitoring,Corrective,Weekly,S. Williams,Active,N
+CTRL0168,RISK0105,Incident post-review,Detective,Quarterly,M. Chen,Active,N
+CTRL0169,RISK0059,Security logging review,Preventive,Weekly,J. Nguyen,Active,Y
+CTRL0170,RISK0012,Supplier assurance review,Detective,Quarterly,P. Kumar,Design gap,Y
+CTRL0171,RISK0082,Access recertification,Corrective,Weekly,M. Chen,Design gap,N
+CTRL0172,RISK0083,Incident post-review,Corrective,Daily,P. Kumar,Active,Y
+CTRL0173,RISK0028,Security logging review,Detective,Monthly,A. Singh,Active,N
+CTRL0174,RISK0116,DR plan review,Corrective,Daily,R. Patel,Active,Y
+CTRL0175,RISK0027,Security logging review,Preventive,Quarterly,M. Chen,Active,Y
+CTRL0176,RISK0073,Change approval gate,Corrective,Quarterly,P. Kumar,Active,N
+CTRL0177,RISK0097,Backup restore test,Corrective,Daily,P. Kumar,Active,Y
+CTRL0178,RISK0013,Supplier assurance review,Preventive,Daily,D. Brown,Retired,N
+CTRL0179,RISK0100,Incident post-review,Preventive,Monthly,K. Smith,Design gap,Y
+CTRL0180,RISK0046,DR plan review,Detective,Quarterly,R. Patel,Retired,N

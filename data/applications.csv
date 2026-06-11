@@ -1,0 +1,41 @@
+application_id,application_name,business_unit,criticality,business_owner,technology_owner,hosting_model,data_sensitivity,tier
+APP001,ServiceNow,Enterprise Applications,Medium,J. Nguyen,S. Williams,Azure,Internal,Tier 2
+APP002,SAP Finance,Infrastructure & Cloud,Medium,N. Wilson,L. Thompson,SaaS,Public,Tier 2
+APP003,SAP HR,Data & Analytics,Critical,P. Kumar,N. Wilson,SaaS,Internal,Tier 0/1
+APP004,Power BI Premium,Customer Channels,Medium,S. Williams,K. Smith,On-prem,Public,Tier 2
+APP005,Azure Data Lake,Cyber Security,Medium,L. Thompson,D. Brown,On-prem,Internal,Tier 2
+APP006,Identity Platform,Payments Platforms,High,M. Chen,M. Chen,Hybrid,Public,Tier 1
+APP007,Customer Portal,Payments Platforms,High,N. Wilson,J. Nguyen,SaaS,Restricted,Tier 1
+APP008,Mobile App,Customer Channels,High,M. Chen,P. Kumar,On-prem,Confidential,Tier 1
+APP009,Payments Gateway,Infrastructure & Cloud,Medium,A. Singh,S. Williams,On-prem,Public,Tier 2
+APP010,Claims Platform,Infrastructure & Cloud,Medium,L. Thompson,J. Nguyen,Hybrid,Confidential,Tier 2
+APP011,CRM,Payments Platforms,Critical,S. Williams,J. Nguyen,SaaS,Internal,Tier 0/1
+APP012,Data Warehouse,Data & Analytics,High,R. Patel,K. Smith,Hybrid,Confidential,Tier 1
+APP013,Jira,Data & Analytics,Low,D. Brown,A. Singh,Azure,Public,Tier 3
+APP014,Confluence,Customer Channels,Medium,J. Nguyen,M. Chen,Azure,Confidential,Tier 2
+APP015,SharePoint,Corporate Systems,High,L. Thompson,K. Smith,Azure,Confidential,Tier 1
+APP016,Email Gateway,End User Services,Critical,N. Wilson,L. Thompson,Hybrid,Confidential,Tier 0/1
+APP017,Network Monitoring,Cyber Security,High,P. Kumar,K. Smith,SaaS,Public,Tier 1
+APP018,API Gateway,Cyber Security,Medium,R. Patel,L. Thompson,SaaS,Restricted,Tier 2
+APP019,Procurement System,Corporate Systems,High,P. Kumar,J. Nguyen,SaaS,Public,Tier 1
+APP020,Risk Register,End User Services,Medium,D. Brown,M. Chen,On-prem,Restricted,Tier 2
+APP021,Incident Console,Enterprise Applications,Critical,J. Nguyen,P. Kumar,Azure,Public,Tier 0/1
+APP022,Change Manager,End User Services,Medium,P. Kumar,N. Wilson,Azure,Internal,Tier 2
+APP023,Vendor Portal,Cyber Security,High,P. Kumar,P. Kumar,SaaS,Confidential,Tier 1
+APP024,Payroll,Infrastructure & Cloud,High,D. Brown,J. Nguyen,Azure,Public,Tier 1
+APP025,Document Management,Infrastructure & Cloud,High,M. Chen,K. Smith,SaaS,Internal,Tier 1
+APP026,Mainframe Core,Corporate Systems,Critical,P. Kumar,R. Patel,On-prem,Restricted,Tier 0/1
+APP027,Integration Hub,Data & Analytics,Low,J. Nguyen,L. Thompson,On-prem,Restricted,Tier 3
+APP028,Observability Stack,Corporate Systems,Medium,M. Chen,S. Williams,Azure,Public,Tier 2
+APP029,VDI Platform,Data & Analytics,High,N. Wilson,S. Williams,SaaS,Public,Tier 1
+APP030,Asset Register,Enterprise Applications,Medium,S. Williams,M. Chen,SaaS,Confidential,Tier 2
+APP031,Privileged Access Vault,Data & Analytics,Critical,J. Nguyen,K. Smith,Azure,Internal,Tier 0/1
+APP032,Backup Platform,Corporate Systems,Medium,S. Williams,K. Smith,Hybrid,Internal,Tier 2
+APP033,DR Orchestrator,Customer Channels,Critical,D. Brown,L. Thompson,Hybrid,Restricted,Tier 0/1
+APP034,Knowledge Base,Enterprise Applications,Medium,M. Chen,A. Singh,Hybrid,Confidential,Tier 2
+APP035,Reporting Hub,Infrastructure & Cloud,Medium,S. Williams,S. Williams,Azure,Restricted,Tier 2
+APP036,Project Portfolio Tool,Cyber Security,Critical,J. Nguyen,K. Smith,Azure,Public,Tier 0/1
+APP037,Data Quality Platform,Infrastructure & Cloud,High,A. Singh,P. Kumar,SaaS,Public,Tier 1
+APP038,Secrets Manager,Data & Analytics,Low,R. Patel,L. Thompson,Hybrid,Restricted,Tier 3
+APP039,Endpoint Manager,Customer Channels,High,A. Singh,R. Patel,Hybrid,Public,Tier 1
+APP040,Collaboration Suite,End User Services,Low,K. Smith,J. Nguyen,Hybrid,Restricted,Tier 3

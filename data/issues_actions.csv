@@ -1,0 +1,251 @@
+action_id,source_type,linked_record_id,action_title,action_owner,due_date,status,severity
+ACT0001,Control Test,CTRL0134,Improve monitoring alert,L. Thompson,2026-05-27,Overdue,Medium
+ACT0002,Control Test,CTRL0006,Close audit finding,D. Brown,2026-03-04,Closed,Low
+ACT0003,Control Test,CTRL0027,Improve monitoring alert,M. Chen,2026-03-21,Closed,Low
+ACT0004,Risk,RISK0106,Resolve recurring incident driver,R. Patel,2026-04-10,In progress,Medium
+ACT0005,Incident PIR,INC00776,Update control evidence,R. Patel,2026-03-16,Closed,Low
+ACT0006,Control Test,CTRL0173,Close audit finding,J. Nguyen,2026-04-05,In progress,High
+ACT0007,Risk,RISK0086,Improve monitoring alert,L. Thompson,2026-01-22,In progress,Medium
+ACT0008,Incident PIR,INC00526,Update control evidence,S. Williams,2026-05-28,Closed,Critical
+ACT0009,Incident PIR,INC00248,Close audit finding,J. Nguyen,2026-05-23,Overdue,Medium
+ACT0010,Control Test,CTRL0120,Update control evidence,D. Brown,2026-06-06,Closed,Critical
+ACT0011,Incident PIR,INC00704,Improve monitoring alert,S. Williams,2026-06-13,Open,High
+ACT0012,Control Test,CTRL0054,Review access group,P. Kumar,2026-07-15,Closed,Medium
+ACT0013,Incident PIR,INC00905,Review access group,R. Patel,2026-07-01,Open,Critical
+ACT0014,Risk,RISK0013,Update risk treatment plan,M. Chen,2026-07-02,Overdue,Critical
+ACT0015,Control Test,CTRL0062,Review access group,K. Smith,2026-06-01,Open,High
+ACT0016,Control Test,CTRL0104,Review access group,A. Singh,2026-06-14,In progress,Low
+ACT0017,Risk,RISK0093,Update risk treatment plan,D. Brown,2026-01-20,Closed,Low
+ACT0018,Risk,RISK0060,Update control evidence,A. Singh,2026-05-09,Closed,High
+ACT0019,Control Test,CTRL0007,Complete remediation plan,D. Brown,2026-07-27,Open,Low
+ACT0020,Risk,RISK0071,Update control evidence,S. Williams,2026-02-02,Closed,Low
+ACT0021,Incident PIR,INC00484,Improve monitoring alert,J. Nguyen,2026-06-13,Overdue,Critical
+ACT0022,Audit Finding,INC00939,Review access group,L. Thompson,2026-01-01,Closed,Medium
+ACT0023,Incident PIR,INC00138,Complete remediation plan,M. Chen,2026-01-15,Open,Medium
+ACT0024,Risk,RISK0070,Resolve recurring incident driver,P. Kumar,2026-03-16,Open,Low
+ACT0025,Incident PIR,INC00859,Resolve recurring incident driver,S. Williams,2026-01-07,Overdue,High
+ACT0026,Control Test,CTRL0056,Close audit finding,M. Chen,2026-06-05,Overdue,High
+ACT0027,Audit Finding,INC00282,Complete remediation plan,M. Chen,2026-03-27,In progress,Medium
+ACT0028,Risk,RISK0090,Improve monitoring alert,R. Patel,2026-07-10,Closed,Low
+ACT0029,Risk,RISK0107,Validate DR evidence,S. Williams,2026-04-04,Overdue,Low
+ACT0030,Audit Finding,INC00439,Update control evidence,P. Kumar,2026-04-22,Closed,Critical
+ACT0031,Risk,RISK0096,Update control evidence,A. Singh,2026-02-02,In progress,High
+ACT0032,Risk,RISK0067,Resolve recurring incident driver,N. Wilson,2026-02-22,In progress,Critical
+ACT0033,Risk,RISK0050,Complete remediation plan,D. Brown,2026-02-09,Overdue,High
+ACT0034,Risk,RISK0023,Validate DR evidence,D. Brown,2026-07-16,Open,Critical
+ACT0035,Audit Finding,INC00522,Complete remediation plan,K. Smith,2026-05-21,Open,Low
+ACT0036,Audit Finding,INC00782,Close audit finding,N. Wilson,2026-05-24,Overdue,High
+ACT0037,Incident PIR,INC00298,Complete remediation plan,S. Williams,2026-07-11,Closed,Medium
+ACT0038,Risk,RISK0102,Review access group,D. Brown,2026-05-16,Closed,Medium
+ACT0039,Control Test,CTRL0123,Close audit finding,L. Thompson,2026-08-09,Overdue,Critical
+ACT0040,Control Test,CTRL0060,Complete remediation plan,A. Singh,2026-06-15,In progress,Critical
+ACT0041,Incident PIR,INC00463,Update control evidence,P. Kumar,2026-06-26,Overdue,Medium
+ACT0042,Risk,RISK0103,Close audit finding,A. Singh,2026-03-16,In progress,Low
+ACT0043,Incident PIR,INC00597,Resolve recurring incident driver,N. Wilson,2026-07-26,Open,Low
+ACT0044,Incident PIR,INC00851,Update risk treatment plan,M. Chen,2026-05-22,Overdue,Medium
+ACT0045,Control Test,CTRL0138,Resolve recurring incident driver,N. Wilson,2026-07-20,In progress,High
+ACT0046,Control Test,CTRL0085,Update control evidence,P. Kumar,2026-05-25,Open,Medium
+ACT0047,Control Test,CTRL0045,Review access group,J. Nguyen,2026-02-18,Open,High
+ACT0048,Audit Finding,INC00414,Update control evidence,L. Thompson,2026-05-25,Overdue,Critical
+ACT0049,Audit Finding,INC00159,Update risk treatment plan,L. Thompson,2026-04-12,Overdue,Critical
+ACT0050,Audit Finding,INC00179,Review access group,P. Kumar,2026-07-11,Open,High
+ACT0051,Incident PIR,INC00687,Validate DR evidence,S. Williams,2026-06-19,Overdue,High
+ACT0052,Risk,RISK0108,Update control evidence,D. Brown,2026-07-29,Closed,Low
+ACT0053,Risk,RISK0019,Resolve recurring incident driver,D. Brown,2026-06-27,Overdue,Critical
+ACT0054,Control Test,CTRL0104,Close audit finding,L. Thompson,2026-06-01,Closed,Medium
+ACT0055,Risk,RISK0101,Resolve recurring incident driver,D. Brown,2026-05-21,In progress,Low
+ACT0056,Risk,RISK0119,Update risk treatment plan,L. Thompson,2026-08-01,Open,Critical
+ACT0057,Control Test,CTRL0049,Validate DR evidence,M. Chen,2026-07-26,In progress,Medium
+ACT0058,Control Test,CTRL0069,Review access group,N. Wilson,2026-04-13,In progress,Medium
+ACT0059,Incident PIR,INC00642,Close audit finding,K. Smith,2026-01-11,Closed,High
+ACT0060,Risk,RISK0001,Resolve recurring incident driver,N. Wilson,2026-06-20,Closed,Low
+ACT0061,Audit Finding,INC00065,Resolve recurring incident driver,P. Kumar,2026-01-15,Open,High
+ACT0062,Risk,RISK0011,Validate DR evidence,A. Singh,2026-06-21,Open,Critical
+ACT0063,Risk,RISK0049,Improve monitoring alert,M. Chen,2026-05-16,Open,Medium
+ACT0064,Risk,RISK0110,Update risk treatment plan,L. Thompson,2026-07-08,In progress,High
+ACT0065,Control Test,CTRL0150,Close audit finding,A. Singh,2026-04-24,Overdue,Medium
+ACT0066,Control Test,CTRL0164,Update risk treatment plan,K. Smith,2026-03-13,In progress,Low
+ACT0067,Incident PIR,INC00401,Update risk treatment plan,R. Patel,2026-02-11,Open,Low
+ACT0068,Audit Finding,INC00688,Validate DR evidence,A. Singh,2026-02-03,Overdue,Critical
+ACT0069,Audit Finding,INC00743,Resolve recurring incident driver,A. Singh,2026-06-10,Closed,High
+ACT0070,Risk,RISK0099,Resolve recurring incident driver,P. Kumar,2026-07-19,In progress,Medium
+ACT0071,Risk,RISK0025,Review access group,M. Chen,2026-02-20,Open,High
+ACT0072,Incident PIR,INC00367,Review access group,D. Brown,2026-07-03,Closed,Low
+ACT0073,Risk,RISK0060,Update risk treatment plan,A. Singh,2026-05-20,Closed,High
+ACT0074,Control Test,CTRL0174,Close audit finding,A. Singh,2026-01-27,Open,Low
+ACT0075,Risk,RISK0029,Validate DR evidence,R. Patel,2026-07-12,In progress,Low
+ACT0076,Audit Finding,INC00560,Resolve recurring incident driver,M. Chen,2026-05-27,Closed,High
+ACT0077,Control Test,CTRL0115,Improve monitoring alert,J. Nguyen,2026-01-20,Closed,Medium
+ACT0078,Risk,RISK0093,Validate DR evidence,A. Singh,2026-02-13,Closed,High
+ACT0079,Audit Finding,INC00302,Complete remediation plan,L. Thompson,2026-05-11,Open,Medium
+ACT0080,Incident PIR,INC00055,Improve monitoring alert,M. Chen,2026-03-02,In progress,Low
+ACT0081,Audit Finding,INC00548,Update risk treatment plan,K. Smith,2026-01-28,Closed,High
+ACT0082,Control Test,CTRL0020,Complete remediation plan,K. Smith,2026-01-04,Closed,High
+ACT0083,Risk,RISK0081,Resolve recurring incident driver,R. Patel,2026-02-19,In progress,Medium
+ACT0084,Audit Finding,INC00804,Update risk treatment plan,S. Williams,2026-07-07,Overdue,Low
+ACT0085,Control Test,CTRL0139,Close audit finding,P. Kumar,2026-03-04,Closed,Medium
+ACT0086,Audit Finding,INC00030,Update risk treatment plan,A. Singh,2026-03-28,Open,Low
+ACT0087,Audit Finding,INC00413,Complete remediation plan,K. Smith,2026-06-24,Closed,Low
+ACT0088,Risk,RISK0052,Review access group,L. Thompson,2026-08-09,Closed,High
+ACT0089,Risk,RISK0047,Close audit finding,M. Chen,2026-07-15,Open,High
+ACT0090,Control Test,CTRL0058,Close audit finding,M. Chen,2026-06-11,In progress,Low
+ACT0091,Incident PIR,INC00016,Update risk treatment plan,M. Chen,2026-07-18,In progress,Medium
+ACT0092,Audit Finding,INC00584,Close audit finding,M. Chen,2026-02-08,Overdue,High
+ACT0093,Incident PIR,INC00582,Update control evidence,P. Kumar,2026-04-12,Closed,Medium
+ACT0094,Control Test,CTRL0111,Improve monitoring alert,P. Kumar,2026-06-09,Overdue,Critical
+ACT0095,Control Test,CTRL0033,Update control evidence,N. Wilson,2026-01-10,Closed,High
+ACT0096,Audit Finding,INC00999,Improve monitoring alert,P. Kumar,2026-07-04,Overdue,Medium
+ACT0097,Control Test,CTRL0077,Complete remediation plan,M. Chen,2026-06-05,In progress,Medium
+ACT0098,Incident PIR,INC00463,Update risk treatment plan,A. Singh,2026-06-10,In progress,Low
+ACT0099,Risk,RISK0046,Resolve recurring incident driver,K. Smith,2026-02-15,Open,Low
+ACT0100,Audit Finding,INC00201,Close audit finding,A. Singh,2026-05-19,Closed,Low
+ACT0101,Incident PIR,INC00390,Complete remediation plan,K. Smith,2026-07-19,Open,Low
+ACT0102,Audit Finding,INC00394,Resolve recurring incident driver,P. Kumar,2026-05-19,Open,Low
+ACT0103,Control Test,CTRL0034,Review access group,K. Smith,2026-03-23,In progress,Critical
+ACT0104,Incident PIR,INC00698,Close audit finding,S. Williams,2026-05-15,Open,Medium
+ACT0105,Risk,RISK0090,Validate DR evidence,L. Thompson,2026-03-10,Closed,Low
+ACT0106,Incident PIR,INC00703,Update control evidence,M. Chen,2026-04-27,Overdue,High
+ACT0107,Incident PIR,INC00922,Validate DR evidence,D. Brown,2026-05-19,Open,Medium
+ACT0108,Incident PIR,INC00187,Resolve recurring incident driver,S. Williams,2026-05-15,In progress,High
+ACT0109,Incident PIR,INC00847,Close audit finding,S. Williams,2026-07-28,Overdue,High
+ACT0110,Incident PIR,INC00809,Review access group,S. Williams,2026-04-11,Closed,Critical
+ACT0111,Incident PIR,INC00415,Validate DR evidence,R. Patel,2026-02-12,In progress,Medium
+ACT0112,Audit Finding,INC00183,Close audit finding,L. Thompson,2026-03-29,In progress,High
+ACT0113,Control Test,CTRL0088,Validate DR evidence,M. Chen,2026-05-16,Overdue,High
+ACT0114,Risk,RISK0072,Validate DR evidence,A. Singh,2026-07-01,In progress,Low
+ACT0115,Incident PIR,INC00980,Validate DR evidence,A. Singh,2026-04-09,Closed,Medium
+ACT0116,Audit Finding,INC00792,Improve monitoring alert,S. Williams,2026-06-24,In progress,Critical
+ACT0117,Control Test,CTRL0079,Complete remediation plan,M. Chen,2026-06-10,Overdue,Low
+ACT0118,Audit Finding,INC00169,Validate DR evidence,N. Wilson,2026-01-13,Open,High
+ACT0119,Incident PIR,INC00813,Validate DR evidence,S. Williams,2026-01-10,Open,Low
+ACT0120,Incident PIR,INC00091,Complete remediation plan,D. Brown,2026-03-25,In progress,Medium
+ACT0121,Control Test,CTRL0028,Validate DR evidence,N. Wilson,2026-02-25,Overdue,High
+ACT0122,Audit Finding,INC00488,Complete remediation plan,S. Williams,2026-07-06,Closed,Low
+ACT0123,Audit Finding,INC00872,Improve monitoring alert,R. Patel,2026-03-23,Open,Critical
+ACT0124,Incident PIR,INC00974,Update control evidence,D. Brown,2026-07-17,Closed,High
+ACT0125,Audit Finding,INC00393,Complete remediation plan,N. Wilson,2026-06-07,In progress,Low
+ACT0126,Risk,RISK0078,Update risk treatment plan,A. Singh,2026-07-07,Closed,Medium
+ACT0127,Incident PIR,INC00133,Validate DR evidence,L. Thompson,2026-03-02,Closed,High
+ACT0128,Control Test,CTRL0085,Resolve recurring incident driver,L. Thompson,2026-05-23,Closed,Critical
+ACT0129,Incident PIR,INC00885,Resolve recurring incident driver,K. Smith,2026-07-17,Overdue,Low
+ACT0130,Incident PIR,INC00306,Update risk treatment plan,D. Brown,2026-08-09,Open,Medium
+ACT0131,Incident PIR,INC00555,Resolve recurring incident driver,D. Brown,2026-06-11,In progress,Medium
+ACT0132,Incident PIR,INC00183,Complete remediation plan,M. Chen,2026-05-09,Open,Low
+ACT0133,Incident PIR,INC00027,Update control evidence,A. Singh,2026-02-04,Closed,Critical
+ACT0134,Control Test,CTRL0079,Review access group,M. Chen,2026-04-06,Overdue,High
+ACT0135,Control Test,CTRL0165,Complete remediation plan,D. Brown,2026-07-31,Closed,Medium
+ACT0136,Risk,RISK0027,Update risk treatment plan,A. Singh,2026-01-02,In progress,High
+ACT0137,Audit Finding,INC00569,Complete remediation plan,J. Nguyen,2026-07-08,Open,Medium
+ACT0138,Incident PIR,INC00872,Resolve recurring incident driver,L. Thompson,2026-05-14,In progress,Low
+ACT0139,Control Test,CTRL0128,Review access group,L. Thompson,2026-08-06,Overdue,Low
+ACT0140,Audit Finding,INC00737,Close audit finding,A. Singh,2026-03-16,Overdue,High
+ACT0141,Incident PIR,INC00867,Close audit finding,D. Brown,2026-05-12,Closed,Medium
+ACT0142,Control Test,CTRL0018,Close audit finding,P. Kumar,2026-05-15,Open,Critical
+ACT0143,Control Test,CTRL0049,Review access group,N. Wilson,2026-08-03,Open,High
+ACT0144,Risk,RISK0081,Update control evidence,L. Thompson,2026-03-20,Overdue,Critical
+ACT0145,Risk,RISK0067,Update risk treatment plan,R. Patel,2026-03-04,In progress,High
+ACT0146,Audit Finding,INC00354,Update risk treatment plan,L. Thompson,2026-01-07,In progress,Critical
+ACT0147,Audit Finding,INC00182,Validate DR evidence,K. Smith,2026-07-21,Open,Low
+ACT0148,Incident PIR,INC00267,Improve monitoring alert,K. Smith,2026-07-11,Closed,High
+ACT0149,Audit Finding,INC00159,Update control evidence,D. Brown,2026-08-09,Overdue,High
+ACT0150,Risk,RISK0066,Update risk treatment plan,L. Thompson,2026-07-29,Closed,High
+ACT0151,Risk,RISK0051,Close audit finding,K. Smith,2026-01-14,In progress,Critical
+ACT0152,Audit Finding,INC00180,Review access group,S. Williams,2026-01-17,In progress,Low
+ACT0153,Control Test,CTRL0145,Close audit finding,A. Singh,2026-06-17,Overdue,Medium
+ACT0154,Control Test,CTRL0045,Review access group,L. Thompson,2026-02-09,Overdue,High
+ACT0155,Risk,RISK0094,Complete remediation plan,J. Nguyen,2026-04-20,Closed,High
+ACT0156,Control Test,CTRL0061,Validate DR evidence,S. Williams,2026-02-12,In progress,High
+ACT0157,Incident PIR,INC00570,Complete remediation plan,K. Smith,2026-03-20,In progress,Low
+ACT0158,Audit Finding,INC00225,Improve monitoring alert,S. Williams,2026-02-11,Closed,Critical
+ACT0159,Incident PIR,INC00268,Update risk treatment plan,N. Wilson,2026-03-06,Overdue,Critical
+ACT0160,Control Test,CTRL0115,Update risk treatment plan,A. Singh,2026-06-04,Closed,High
+ACT0161,Control Test,CTRL0113,Validate DR evidence,S. Williams,2026-01-18,Open,Low
+ACT0162,Audit Finding,INC00737,Validate DR evidence,R. Patel,2026-01-29,Open,High
+ACT0163,Control Test,CTRL0039,Complete remediation plan,R. Patel,2026-01-08,Closed,Medium
+ACT0164,Audit Finding,INC00747,Update control evidence,P. Kumar,2026-07-22,Overdue,High
+ACT0165,Control Test,CTRL0010,Update risk treatment plan,N. Wilson,2026-01-12,In progress,Low
+ACT0166,Audit Finding,INC00358,Validate DR evidence,P. Kumar,2026-06-25,Open,Medium
+ACT0167,Control Test,CTRL0061,Update control evidence,A. Singh,2026-06-13,In progress,High
+ACT0168,Risk,RISK0036,Resolve recurring incident driver,M. Chen,2026-03-19,Open,Medium
+ACT0169,Risk,RISK0059,Close audit finding,S. Williams,2026-01-18,In progress,Critical
+ACT0170,Risk,RISK0100,Close audit finding,N. Wilson,2026-02-08,Overdue,Medium
+ACT0171,Risk,RISK0012,Improve monitoring alert,P. Kumar,2026-03-19,Open,High
+ACT0172,Risk,RISK0079,Update control evidence,N. Wilson,2026-07-30,Open,Low
+ACT0173,Audit Finding,INC00085,Update risk treatment plan,M. Chen,2026-02-23,Overdue,Critical
+ACT0174,Control Test,CTRL0102,Close audit finding,M. Chen,2026-01-13,Overdue,High
+ACT0175,Control Test,CTRL0031,Update risk treatment plan,L. Thompson,2026-06-25,Closed,Low
+ACT0176,Control Test,CTRL0014,Complete remediation plan,M. Chen,2026-01-30,Overdue,Critical
+ACT0177,Audit Finding,INC00413,Close audit finding,A. Singh,2026-01-27,Open,Critical
+ACT0178,Risk,RISK0058,Update risk treatment plan,S. Williams,2026-02-04,Overdue,High
+ACT0179,Control Test,CTRL0010,Resolve recurring incident driver,L. Thompson,2026-03-17,Overdue,Medium
+ACT0180,Control Test,CTRL0138,Update risk treatment plan,J. Nguyen,2026-01-04,Overdue,Critical
+ACT0181,Control Test,CTRL0073,Improve monitoring alert,A. Singh,2026-02-15,Open,Low
+ACT0182,Control Test,CTRL0087,Validate DR evidence,R. Patel,2026-08-09,Open,High
+ACT0183,Incident PIR,INC00385,Review access group,D. Brown,2026-02-02,Open,Medium
+ACT0184,Audit Finding,INC00860,Update control evidence,S. Williams,2026-07-22,Open,Medium
+ACT0185,Control Test,CTRL0178,Update control evidence,M. Chen,2026-05-30,In progress,High
+ACT0186,Audit Finding,INC00122,Resolve recurring incident driver,D. Brown,2026-02-06,In progress,Medium
+ACT0187,Incident PIR,INC00397,Close audit finding,S. Williams,2026-03-20,Closed,Critical
+ACT0188,Incident PIR,INC00965,Close audit finding,A. Singh,2026-01-20,Closed,High
+ACT0189,Audit Finding,INC00953,Validate DR evidence,N. Wilson,2026-01-14,In progress,High
+ACT0190,Audit Finding,INC00237,Update control evidence,R. Patel,2026-05-23,In progress,Critical
+ACT0191,Audit Finding,INC00737,Resolve recurring incident driver,L. Thompson,2026-07-04,Closed,Critical
+ACT0192,Audit Finding,INC00234,Improve monitoring alert,P. Kumar,2026-02-03,Open,Critical
+ACT0193,Incident PIR,INC00328,Close audit finding,A. Singh,2026-03-08,Closed,High
+ACT0194,Incident PIR,INC00034,Update control evidence,N. Wilson,2026-03-05,Open,Medium
+ACT0195,Audit Finding,INC00980,Update risk treatment plan,D. Brown,2026-05-08,Overdue,Low
+ACT0196,Incident PIR,INC00638,Validate DR evidence,D. Brown,2026-01-17,In progress,Medium
+ACT0197,Audit Finding,INC00864,Improve monitoring alert,K. Smith,2026-02-14,Closed,Critical
+ACT0198,Control Test,CTRL0065,Complete remediation plan,A. Singh,2026-04-29,In progress,Critical
+ACT0199,Risk,RISK0103,Update control evidence,S. Williams,2026-07-20,In progress,Critical
+ACT0200,Audit Finding,INC00568,Resolve recurring incident driver,J. Nguyen,2026-02-28,Open,Critical
+ACT0201,Audit Finding,INC00166,Update control evidence,P. Kumar,2026-04-19,In progress,Critical
+ACT0202,Incident PIR,INC00459,Update control evidence,M. Chen,2026-01-28,Open,Medium
+ACT0203,Risk,RISK0060,Update control evidence,L. Thompson,2026-01-22,Open,Low
+ACT0204,Risk,RISK0032,Review access group,D. Brown,2026-01-14,In progress,Critical
+ACT0205,Risk,RISK0105,Improve monitoring alert,K. Smith,2026-03-15,In progress,Medium
+ACT0206,Control Test,CTRL0103,Review access group,A. Singh,2026-02-14,Open,Critical
+ACT0207,Audit Finding,INC00187,Validate DR evidence,K. Smith,2026-03-31,In progress,Low
+ACT0208,Audit Finding,INC00611,Review access group,M. Chen,2026-03-06,In progress,Critical
+ACT0209,Incident PIR,INC00204,Review access group,N. Wilson,2026-06-21,Closed,Low
+ACT0210,Control Test,CTRL0113,Resolve recurring incident driver,L. Thompson,2026-03-07,Closed,High
+ACT0211,Risk,RISK0046,Review access group,R. Patel,2026-05-30,Open,Low
+ACT0212,Risk,RISK0005,Resolve recurring incident driver,L. Thompson,2026-01-15,Closed,Low
+ACT0213,Risk,RISK0040,Update control evidence,M. Chen,2026-03-26,Overdue,Critical
+ACT0214,Risk,RISK0058,Update risk treatment plan,M. Chen,2026-05-31,In progress,Medium
+ACT0215,Risk,RISK0003,Review access group,P. Kumar,2026-07-11,Overdue,Critical
+ACT0216,Incident PIR,INC00588,Complete remediation plan,D. Brown,2026-01-01,In progress,High
+ACT0217,Risk,RISK0033,Update control evidence,N. Wilson,2026-06-06,Overdue,Medium
+ACT0218,Audit Finding,INC00952,Update risk treatment plan,S. Williams,2026-04-12,Closed,Critical
+ACT0219,Control Test,CTRL0119,Complete remediation plan,L. Thompson,2026-06-01,In progress,Low
+ACT0220,Incident PIR,INC00105,Complete remediation plan,R. Patel,2026-04-16,Closed,High
+ACT0221,Audit Finding,INC00294,Improve monitoring alert,S. Williams,2026-01-13,In progress,High
+ACT0222,Control Test,CTRL0083,Improve monitoring alert,N. Wilson,2026-04-22,Open,Critical
+ACT0223,Audit Finding,INC00827,Improve monitoring alert,R. Patel,2026-01-04,Open,Low
+ACT0224,Control Test,CTRL0007,Update risk treatment plan,P. Kumar,2026-02-24,In progress,High
+ACT0225,Risk,RISK0012,Close audit finding,A. Singh,2026-04-16,Open,Medium
+ACT0226,Risk,RISK0109,Complete remediation plan,S. Williams,2026-05-20,Closed,Medium
+ACT0227,Audit Finding,INC00923,Complete remediation plan,K. Smith,2026-02-07,Closed,Critical
+ACT0228,Incident PIR,INC00951,Complete remediation plan,P. Kumar,2026-06-19,In progress,Low
+ACT0229,Incident PIR,INC00312,Complete remediation plan,K. Smith,2026-05-17,Open,Medium
+ACT0230,Control Test,CTRL0147,Validate DR evidence,K. Smith,2026-04-23,Closed,Critical
+ACT0231,Control Test,CTRL0016,Update control evidence,L. Thompson,2026-07-27,Open,Low
+ACT0232,Incident PIR,INC00485,Close audit finding,S. Williams,2026-06-20,Open,Low
+ACT0233,Risk,RISK0039,Complete remediation plan,R. Patel,2026-06-02,In progress,Low
+ACT0234,Incident PIR,INC00811,Resolve recurring incident driver,P. Kumar,2026-02-12,Overdue,High
+ACT0235,Audit Finding,INC00744,Update risk treatment plan,A. Singh,2026-07-12,In progress,Medium
+ACT0236,Risk,RISK0076,Complete remediation plan,J. Nguyen,2026-04-01,Open,Critical
+ACT0237,Audit Finding,INC00116,Update risk treatment plan,P. Kumar,2026-04-01,In progress,High
+ACT0238,Control Test,CTRL0125,Review access group,D. Brown,2026-03-14,Overdue,Low
+ACT0239,Incident PIR,INC00110,Resolve recurring incident driver,R. Patel,2026-07-19,Closed,Medium
+ACT0240,Risk,RISK0114,Improve monitoring alert,N. Wilson,2026-06-04,Closed,Low
+ACT0241,Audit Finding,INC00560,Resolve recurring incident driver,A. Singh,2026-03-05,Overdue,Medium
+ACT0242,Audit Finding,INC00524,Update risk treatment plan,A. Singh,2026-03-21,Open,High
+ACT0243,Incident PIR,INC00105,Validate DR evidence,N. Wilson,2026-04-09,Open,High
+ACT0244,Audit Finding,INC00282,Update control evidence,P. Kumar,2026-05-19,In progress,High
+ACT0245,Incident PIR,INC00548,Review access group,N. Wilson,2026-04-13,In progress,Critical
+ACT0246,Audit Finding,INC00141,Close audit finding,P. Kumar,2026-03-08,In progress,Low
+ACT0247,Risk,RISK0055,Complete remediation plan,M. Chen,2026-01-06,Overdue,Medium
+ACT0248,Risk,RISK0028,Review access group,D. Brown,2026-08-01,Open,High
+ACT0249,Control Test,CTRL0105,Update risk treatment plan,L. Thompson,2026-01-28,Open,Critical
+ACT0250,Incident PIR,INC00192,Improve monitoring alert,D. Brown,2026-03-05,Open,Critical

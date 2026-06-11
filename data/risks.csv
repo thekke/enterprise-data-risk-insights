@@ -1,0 +1,121 @@
+risk_id,application_id,risk_category,risk_title,risk_owner,inherent_likelihood,inherent_impact,inherent_score,residual_score,risk_status,identified_date,target_treatment_date
+RISK0001,APP010,Architecture Obsolescence,Privileged access not reviewed,D. Brown,2,3,7,5,Open,2025-01-26,2026-05-30
+RISK0002,APP031,Architecture Obsolescence,Unsupported component exposure,R. Patel,5,5,25,23,Open,2025-11-01,2026-01-18
+RISK0003,APP016,Cyber Security,Unsupported component exposure,L. Thompson,4,1,8,3,Closed,2025-10-17,2026-05-14
+RISK0004,APP021,Change Failure,Excessive incident recurrence,L. Thompson,3,2,11,4,Open,2025-12-10,2026-06-15
+RISK0005,APP020,Compliance,Unsupported component exposure,M. Chen,4,3,12,10,Closed,2025-04-20,2026-05-10
+RISK0006,APP017,Access Management,Excessive incident recurrence,R. Patel,2,3,6,1,Treatment in progress,2026-03-03,2026-05-20
+RISK0007,APP020,Third Party,Unsupported component exposure,R. Patel,5,5,25,15,Open,2025-03-01,2026-08-16
+RISK0008,APP007,Change Failure,Supplier assurance gap,S. Williams,5,2,12,6,Open,2025-09-16,2026-05-06
+RISK0009,APP017,Third Party,Privileged access not reviewed,A. Singh,1,1,6,1,Open,2026-01-30,2026-02-03
+RISK0010,APP017,Architecture Obsolescence,Privileged access not reviewed,M. Chen,2,4,12,4,Open,2026-04-29,2026-08-15
+RISK0011,APP010,Operational Resilience,Data quality issue in executive reporting,R. Patel,5,1,7,1,Open,2025-06-07,2026-04-04
+RISK0012,APP003,Data Privacy,Supplier assurance gap,P. Kumar,3,2,11,6,Treatment in progress,2026-05-14,2026-06-08
+RISK0013,APP010,Cyber Security,Incomplete DR evidence,D. Brown,2,2,5,1,Treatment in progress,2026-02-15,2026-06-21
+RISK0014,APP016,Data Quality,Privileged access not reviewed,K. Smith,3,2,11,8,Open,2025-04-13,2026-07-29
+RISK0015,APP030,Cyber Security,Control testing failure,L. Thompson,3,3,10,5,Open,2025-05-23,2026-08-10
+RISK0016,APP005,Data Quality,Sensitive data handling gap,D. Brown,3,3,14,4,Open,2025-03-01,2026-08-13
+RISK0017,APP017,Data Privacy,Data quality issue in executive reporting,D. Brown,2,5,12,10,Open,2025-08-12,2026-06-05
+RISK0018,APP033,Third Party,Privileged access not reviewed,L. Thompson,1,4,8,3,Open,2025-09-24,2026-08-25
+RISK0019,APP035,Access Management,Supplier assurance gap,M. Chen,2,3,9,6,Open,2025-09-17,2026-03-21
+RISK0020,APP027,Architecture Obsolescence,Incomplete DR evidence,S. Williams,3,4,17,11,Treatment in progress,2025-12-07,2026-08-29
+RISK0021,APP025,Data Quality,Sensitive data handling gap,A. Singh,2,5,14,8,Open,2025-05-27,2026-02-23
+RISK0022,APP028,Compliance,Unapproved change risk,K. Smith,5,5,25,18,Open,2025-09-19,2026-05-02
+RISK0023,APP011,Data Privacy,Control testing failure,J. Nguyen,1,3,7,1,Open,2026-02-17,2026-02-20
+RISK0024,APP010,Data Privacy,Unapproved change risk,L. Thompson,1,1,2,1,Closed,2025-04-10,2026-07-03
+RISK0025,APP025,Cyber Security,Unsupported component exposure,L. Thompson,4,4,17,13,Open,2025-04-01,2026-07-25
+RISK0026,APP034,Data Privacy,Unapproved change risk,R. Patel,4,1,8,3,Treatment in progress,2025-12-08,2026-05-16
+RISK0027,APP036,Data Quality,Sensitive data handling gap,K. Smith,5,3,18,8,Open,2026-01-16,2026-08-09
+RISK0028,APP031,Architecture Obsolescence,Unapproved change risk,S. Williams,4,3,13,7,Open,2025-08-14,2026-01-20
+RISK0029,APP019,Architecture Obsolescence,Unsupported component exposure,R. Patel,2,3,8,1,Open,2025-04-29,2026-04-09
+RISK0030,APP010,Access Management,Sensitive data handling gap,K. Smith,2,1,5,1,Treatment in progress,2025-02-01,2026-02-22
+RISK0031,APP027,Data Quality,Unapproved change risk,A. Singh,4,5,25,23,Open,2025-06-02,2026-07-12
+RISK0032,APP025,Change Failure,Unapproved change risk,S. Williams,4,5,25,15,Open,2025-08-12,2026-05-05
+RISK0033,APP002,Operational Resilience,Unapproved change risk,R. Patel,4,3,17,9,Closed,2025-10-01,2026-01-07
+RISK0034,APP026,Data Privacy,Data quality issue in executive reporting,R. Patel,5,5,25,23,Treatment in progress,2025-04-04,2026-01-13
+RISK0035,APP017,Access Management,Supplier assurance gap,L. Thompson,4,3,13,4,Open,2026-01-21,2026-09-01
+RISK0036,APP027,Architecture Obsolescence,Privileged access not reviewed,D. Brown,3,1,6,4,Open,2025-11-29,2026-01-18
+RISK0037,APP003,Operational Resilience,Control testing failure,R. Patel,1,2,3,1,Treatment in progress,2025-12-09,2026-01-30
+RISK0038,APP037,Access Management,Incomplete DR evidence,N. Wilson,2,4,13,7,Closed,2026-05-09,2026-07-11
+RISK0039,APP008,Third Party,Data quality issue in executive reporting,L. Thompson,2,3,6,4,Open,2025-02-08,2026-06-01
+RISK0040,APP016,Cyber Security,Supplier assurance gap,P. Kumar,1,3,8,5,Treatment in progress,2025-12-05,2026-04-05
+RISK0041,APP005,Compliance,Unsupported component exposure,L. Thompson,5,3,15,7,Open,2025-11-22,2026-08-17
+RISK0042,APP030,Third Party,Sensitive data handling gap,K. Smith,2,4,9,1,Treatment in progress,2025-08-12,2026-07-31
+RISK0043,APP038,Third Party,Unapproved change risk,S. Williams,3,3,10,7,Treatment in progress,2025-10-19,2026-06-06
+RISK0044,APP025,Operational Resilience,Unapproved change risk,S. Williams,3,1,6,1,Open,2026-02-13,2026-03-08
+RISK0045,APP022,Architecture Obsolescence,Privileged access not reviewed,P. Kumar,3,5,20,14,Open,2025-02-13,2026-03-03
+RISK0046,APP027,Compliance,Unapproved change risk,A. Singh,4,5,21,12,Open,2025-05-31,2026-02-26
+RISK0047,APP026,Compliance,Sensitive data handling gap,P. Kumar,2,3,11,4,Open,2025-08-06,2026-07-10
+RISK0048,APP036,Third Party,Excessive incident recurrence,J. Nguyen,3,3,14,5,Open,2025-03-03,2026-07-04
+RISK0049,APP013,Operational Resilience,Control testing failure,S. Williams,3,1,8,1,Treatment in progress,2025-05-22,2026-07-05
+RISK0050,APP038,Change Failure,Excessive incident recurrence,S. Williams,5,5,25,22,Open,2025-04-02,2026-03-19
+RISK0051,APP001,Cyber Security,Sensitive data handling gap,J. Nguyen,5,2,12,10,Open,2025-11-23,2026-08-11
+RISK0052,APP032,Compliance,Unapproved change risk,K. Smith,1,1,5,1,Open,2025-04-05,2026-09-05
+RISK0053,APP004,Data Quality,Unapproved change risk,M. Chen,3,4,12,9,Closed,2025-11-19,2026-06-25
+RISK0054,APP004,Data Privacy,Control testing failure,M. Chen,2,2,8,2,Closed,2026-01-27,2026-04-17
+RISK0055,APP039,Data Quality,Unapproved change risk,K. Smith,5,5,25,15,Open,2026-03-17,2026-05-31
+RISK0056,APP028,Data Privacy,Control testing failure,S. Williams,3,5,19,17,Open,2025-12-05,2026-01-21
+RISK0057,APP011,Operational Resilience,Privileged access not reviewed,L. Thompson,2,2,8,5,Treatment in progress,2025-12-19,2026-06-02
+RISK0058,APP031,Third Party,Unapproved change risk,M. Chen,3,1,4,1,Open,2026-04-19,2026-03-09
+RISK0059,APP038,Change Failure,Incomplete DR evidence,J. Nguyen,2,4,8,1,Open,2025-02-06,2026-01-16
+RISK0060,APP011,Compliance,Unsupported component exposure,K. Smith,3,5,20,14,Open,2025-12-25,2026-04-14
+RISK0061,APP018,Data Privacy,Privileged access not reviewed,L. Thompson,5,5,25,16,Open,2025-11-06,2026-03-06
+RISK0062,APP002,Third Party,Privileged access not reviewed,R. Patel,1,2,7,5,Treatment in progress,2025-09-23,2026-06-16
+RISK0063,APP029,Compliance,Unsupported component exposure,K. Smith,3,2,10,2,Open,2025-07-29,2026-03-27
+RISK0064,APP021,Compliance,Excessive incident recurrence,L. Thompson,1,2,4,1,Closed,2025-01-19,2026-04-27
+RISK0065,APP006,Data Quality,Sensitive data handling gap,A. Singh,3,3,11,8,Closed,2025-08-25,2026-04-16
+RISK0066,APP004,Compliance,Privileged access not reviewed,S. Williams,2,5,12,3,Open,2025-10-09,2026-02-03
+RISK0067,APP019,Change Failure,Incomplete DR evidence,J. Nguyen,4,4,16,14,Closed,2025-01-08,2026-05-22
+RISK0068,APP027,Data Privacy,Incomplete DR evidence,K. Smith,1,2,2,1,Open,2025-09-18,2026-06-30
+RISK0069,APP018,Compliance,Sensitive data handling gap,R. Patel,4,4,19,14,Treatment in progress,2025-04-08,2026-08-24
+RISK0070,APP039,Data Quality,Supplier assurance gap,P. Kumar,5,2,10,4,Open,2026-02-25,2026-01-01
+RISK0071,APP019,Operational Resilience,Unapproved change risk,P. Kumar,3,5,19,10,Treatment in progress,2025-06-26,2026-03-27
+RISK0072,APP036,Change Failure,Control testing failure,N. Wilson,5,4,23,16,Treatment in progress,2025-04-30,2026-08-08
+RISK0073,APP027,Data Quality,Data quality issue in executive reporting,R. Patel,1,3,8,1,Treatment in progress,2026-05-09,2026-01-10
+RISK0074,APP009,Compliance,Unsupported component exposure,P. Kumar,5,5,25,22,Treatment in progress,2025-01-08,2026-07-04
+RISK0075,APP010,Third Party,Supplier assurance gap,N. Wilson,4,2,8,1,Treatment in progress,2025-11-29,2026-01-21
+RISK0076,APP022,Architecture Obsolescence,Privileged access not reviewed,N. Wilson,5,4,22,13,Open,2025-05-01,2026-06-11
+RISK0077,APP019,Data Privacy,Unapproved change risk,R. Patel,2,1,5,2,Open,2026-04-08,2026-01-08
+RISK0078,APP003,Access Management,Data quality issue in executive reporting,R. Patel,3,1,5,1,Open,2025-09-29,2026-04-16
+RISK0079,APP037,Data Quality,Control testing failure,K. Smith,2,2,5,2,Closed,2025-03-15,2026-03-01
+RISK0080,APP030,Compliance,Excessive incident recurrence,P. Kumar,3,4,14,12,Open,2025-02-07,2026-04-24
+RISK0081,APP023,Third Party,Unapproved change risk,J. Nguyen,5,3,20,12,Open,2025-07-16,2026-08-07
+RISK0082,APP031,Third Party,Excessive incident recurrence,A. Singh,1,2,5,1,Treatment in progress,2025-05-21,2026-01-03
+RISK0083,APP037,Third Party,Control testing failure,N. Wilson,1,5,10,1,Open,2025-04-23,2026-06-12
+RISK0084,APP013,Data Privacy,Privileged access not reviewed,J. Nguyen,5,3,20,16,Treatment in progress,2025-01-18,2026-05-29
+RISK0085,APP024,Data Quality,Incomplete DR evidence,S. Williams,2,1,4,1,Open,2026-02-07,2026-05-19
+RISK0086,APP024,Third Party,Unapproved change risk,J. Nguyen,5,5,25,21,Open,2026-02-16,2026-01-30
+RISK0087,APP030,Architecture Obsolescence,Supplier assurance gap,M. Chen,1,2,3,1,Treatment in progress,2025-01-08,2026-03-09
+RISK0088,APP035,Data Quality,Supplier assurance gap,M. Chen,1,4,6,1,Open,2025-08-30,2026-01-07
+RISK0089,APP040,Data Privacy,Unapproved change risk,J. Nguyen,5,3,19,14,Treatment in progress,2025-03-01,2026-02-05
+RISK0090,APP003,Data Privacy,Control testing failure,P. Kumar,1,3,6,3,Open,2025-07-18,2026-04-27
+RISK0091,APP024,Data Quality,Unsupported component exposure,K. Smith,5,4,24,20,Closed,2025-07-28,2026-08-29
+RISK0092,APP018,Compliance,Control testing failure,D. Brown,1,3,4,1,Open,2025-12-18,2026-04-05
+RISK0093,APP035,Change Failure,Unsupported component exposure,K. Smith,3,1,6,1,Open,2025-12-06,2026-02-24
+RISK0094,APP039,Operational Resilience,Control testing failure,M. Chen,1,1,3,1,Closed,2025-04-17,2026-05-31
+RISK0095,APP014,Third Party,Incomplete DR evidence,R. Patel,2,3,7,5,Closed,2025-05-09,2026-07-24
+RISK0096,APP012,Access Management,Control testing failure,N. Wilson,1,1,2,1,Open,2025-01-09,2026-02-14
+RISK0097,APP017,Architecture Obsolescence,Unsupported component exposure,M. Chen,1,2,7,1,Treatment in progress,2025-08-18,2026-07-19
+RISK0098,APP024,Architecture Obsolescence,Control testing failure,N. Wilson,5,5,25,16,Open,2026-01-08,2026-07-20
+RISK0099,APP034,Cyber Security,Unapproved change risk,L. Thompson,3,4,17,15,Treatment in progress,2025-12-18,2026-01-28
+RISK0100,APP032,Operational Resilience,Unsupported component exposure,R. Patel,4,1,4,1,Open,2025-11-16,2026-06-12
+RISK0101,APP038,Third Party,Unapproved change risk,P. Kumar,5,3,18,8,Closed,2025-08-09,2026-01-26
+RISK0102,APP008,Change Failure,Data quality issue in executive reporting,D. Brown,5,2,13,4,Treatment in progress,2025-07-24,2026-04-17
+RISK0103,APP007,Access Management,Incomplete DR evidence,K. Smith,3,4,14,8,Open,2025-02-16,2026-08-01
+RISK0104,APP006,Operational Resilience,Sensitive data handling gap,A. Singh,1,4,4,1,Closed,2026-05-05,2026-05-24
+RISK0105,APP036,Data Quality,Privileged access not reviewed,J. Nguyen,3,1,6,1,Closed,2025-06-09,2026-04-01
+RISK0106,APP007,Compliance,Control testing failure,M. Chen,5,5,25,21,Open,2026-03-09,2026-05-23
+RISK0107,APP024,Data Quality,Sensitive data handling gap,N. Wilson,1,3,7,2,Closed,2025-12-12,2026-06-14
+RISK0108,APP036,Cyber Security,Incomplete DR evidence,J. Nguyen,1,5,10,4,Open,2026-04-17,2026-03-28
+RISK0109,APP023,Data Privacy,Incomplete DR evidence,A. Singh,1,2,3,1,Open,2026-01-18,2026-05-16
+RISK0110,APP014,Operational Resilience,Supplier assurance gap,J. Nguyen,4,4,19,12,Open,2026-02-02,2026-08-30
+RISK0111,APP037,Operational Resilience,Privileged access not reviewed,M. Chen,5,1,5,1,Open,2025-08-15,2026-06-19
+RISK0112,APP028,Third Party,Control testing failure,P. Kumar,4,5,23,15,Open,2025-06-26,2026-04-21
+RISK0113,APP008,Third Party,Privileged access not reviewed,S. Williams,3,5,18,8,Treatment in progress,2025-11-03,2026-01-15
+RISK0114,APP001,Third Party,Excessive incident recurrence,D. Brown,2,3,7,3,Open,2025-01-04,2026-05-08
+RISK0115,APP028,Change Failure,Sensitive data handling gap,P. Kumar,2,2,7,1,Open,2025-02-06,2026-04-12
+RISK0116,APP003,Access Management,Data quality issue in executive reporting,N. Wilson,4,1,7,4,Treatment in progress,2025-12-30,2026-06-13
+RISK0117,APP027,Access Management,Incomplete DR evidence,N. Wilson,3,1,6,4,Treatment in progress,2026-03-02,2026-06-26
+RISK0118,APP024,Data Quality,Data quality issue in executive reporting,P. Kumar,1,4,4,1,Open,2025-07-22,2026-08-11
+RISK0119,APP020,Data Privacy,Sensitive data handling gap,M. Chen,3,2,8,4,Closed,2025-09-19,2026-02-19
+RISK0120,APP023,Operational Resilience,Excessive incident recurrence,S. Williams,3,2,7,4,Open,2025-11-05,2026-02-09
